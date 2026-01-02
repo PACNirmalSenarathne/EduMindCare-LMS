@@ -41,4 +41,4 @@ EduMindCare is a Learning Management System designed for universities and instit
 
 ## 📧 Contact
 Nirmal Senarathne  
-LinkedIn: https://linkedin.com/in/YOURNAME
+LinkedIn: https://www.linkedin.com/in/nirmal-senarathne-099061339?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZZ9kRjahR2u9gFFGniFSjg%3D%3D
